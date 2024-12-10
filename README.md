@@ -4,6 +4,7 @@ A Datalogger is a device which controls the sensors and store their values with 
 
 * The PCB folder contains all the different PCB design used
 ![alt text](https://github.com/ISSKA/Thermokarst/blob/main/images/Datalogger.jpg)
+<img src="https://github.com/ISSKA/Thermokarst/blob/main/images/Datalogger.jpg" width="128"/>
 * The datalogger_code folder contains all the codes for the dataloggers.
 
 For detailed informations about the working principle of a datalogger, code walkthrough and PCB design hints, please refer to the Datalogger Guide PDF.
